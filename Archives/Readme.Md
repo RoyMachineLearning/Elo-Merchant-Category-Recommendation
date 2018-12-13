@@ -1,1 +1,2 @@
-All the Archive files for the ELO Project
+Previous Versions of Kaggle Competition : Elo Merchant Category Recommendation
+
